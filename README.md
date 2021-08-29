@@ -4,10 +4,28 @@
 ![GitHub](https://img.shields.io/github/followers/Derpimort?label=Follow&style=social)
 
 ```c:me.c
+#include "bio.h"
+#include "coding.h"
+#include "awesomeness.h"
+//#include "nobugs.h" /* Been giving a lot of problems lately */
 
+int main(){
+
+    char name[]         = "Jatin Saini";
+
+    char *langs[5]      = {"Python", "C", "Java", "Kotlin", "SQL"};
+
+    char *techs[7]      = {"Android", "Machine Learning", "Docker", "ELK", "AWS", "HPC", "Git"};
+
+    char *learning[4]   = {"Golang", "Flutter", "Django", "React"};
+
+    char *workingOn[2]  = {"Meme-Indexer", "This Bio"};
+
+    char *likes[5]      = {"Programming", "FPS Games", "Harmonica", "Minecraft"};
+
+    return 42;
+}
 ```
-
-
 
 ### 📌 Highlighted Repos
 
@@ -15,7 +33,6 @@
 [![News-Categorization Card](https://github-readme-stats.vercel.app/api/pin/?username=Derpimort&repo=News-Categorization&theme=transparent)](https://github.com/Derpimort/News-Categorization)
 [![NASA SpaceApps 2020 Card](https://github-readme-stats.vercel.app/api/pin/?username=LegendBois&repo=NASA-Space-Apps-Spot-The-Fire-v3.0&theme=transparent)](https://github.com/LegendBois/NASA-Space-Apps-Spot-The-Fire-v3.0)
 [![News-popularity-analysis Card](https://github-readme-stats.vercel.app/api/pin/?username=Derpimort&repo=News-popularity-analysis&theme=transparent)](https://github.com/Derpimort/News-popularity-analysis)
-
 
 ### 🔭 Stats
 
