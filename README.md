@@ -19,8 +19,8 @@
 
 ### 🔭 Stats
 
-<img alt="Jatin Saini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Derpimort&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&theme=transparent" />
-<img alt="Jatin Saini's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derpimort&layout=compact&hide=jupyter%20notebook&theme=transparent" />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Jatin Saini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Derpimort&line_height=27&show_icons=true&count_private=true&include_all_commits=false&theme=transparent" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Jatin Saini's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derpimort&langs_count=3&hide=jupyter%20notebook&theme=transparent" /></a>
 
 ### 🏆 Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Derpimort&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
