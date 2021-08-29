@@ -14,7 +14,7 @@
 [![VGGVox-PyTorch Card](https://github-readme-stats.vercel.app/api/pin/?username=Derpimort&repo=VGGVox-PyTorch&theme=transparent)](https://github.com/Derpimort/VGGVox-PyTorch)
 [![News-Categorization Card](https://github-readme-stats.vercel.app/api/pin/?username=Derpimort&repo=News-Categorization&theme=transparent)](https://github.com/Derpimort/News-Categorization)
 [![NASA SpaceApps 2020 Card](https://github-readme-stats.vercel.app/api/pin/?username=LegendBois&repo=NASA-Space-Apps-Spot-The-Fire-v3.0&theme=transparent)](https://github.com/LegendBois/NASA-Space-Apps-Spot-The-Fire-v3.0)
-[![News-popularity-analysis Card](https://github-readme-stats.vercel.app/api/pin/?username=Derpimort&repo=News-popularity-analysi&theme=transparent)](https://github.com/Derpimort/News-popularity-analysis)
+[![News-popularity-analysis Card](https://github-readme-stats.vercel.app/api/pin/?username=Derpimort&repo=News-popularity-analysis&theme=transparent)](https://github.com/Derpimort/News-popularity-analysis)
 
 
 ### 🔭 Stats
