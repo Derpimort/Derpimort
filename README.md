@@ -30,9 +30,9 @@ int main(){
 ### 📌 Highlighted Repos
 
 [![VGGVox-PyTorch Card](https://github-readme-stats.vercel.app/api/pin/?username=Derpimort&repo=VGGVox-PyTorch&theme=transparent)](https://github.com/Derpimort/VGGVox-PyTorch)
+[![Meme-Indexer Card](https://github-readme-stats.vercel.app/api/pin/?username=Derpimort&repo=Meme-Indexer&theme=transparent)](https://github.com/Derpimort/Meme-Indexer)
+[![FinSent Card](https://github-readme-stats.vercel.app/api/pin/?username=Derpimort&repo=FinSent&theme=transparent)](https://github.com/Derpimort/FinSent)
 [![News-Categorization Card](https://github-readme-stats.vercel.app/api/pin/?username=Derpimort&repo=News-Categorization&theme=transparent)](https://github.com/Derpimort/News-Categorization)
-[![NASA SpaceApps 2020 Card](https://github-readme-stats.vercel.app/api/pin/?username=LegendBois&repo=NASA-Space-Apps-Spot-The-Fire-v3.0&theme=transparent)](https://github.com/LegendBois/NASA-Space-Apps-Spot-The-Fire-v3.0)
-[![News-popularity-analysis Card](https://github-readme-stats.vercel.app/api/pin/?username=Derpimort&repo=News-popularity-analysis&theme=transparent)](https://github.com/Derpimort/News-popularity-analysis)
 
 ### 🔭 Stats
 
