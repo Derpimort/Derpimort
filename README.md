@@ -1,7 +1,7 @@
 ## Hello! I'm Jatin Saini 👋🏻
 [![Twitter](https://img.shields.io/twitter/follow/derpimort?label=Follow)](https://twitter.com/intent/follow?screen_name=derpimort)
 [![Linkedin](https://img.shields.io/badge/-derpimort-white?logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/derpimort/)](https://www.linkedin.com/in/derpimort/)
-![GitHub](https://img.shields.io/github/followers/Derpimort?label=Follow&style=social)
+[![GitHub](https://img.shields.io/github/followers/Derpimort?label=Follow&style=social)](https://github.com/Derpimort)
 
 ```c:me.c
 #include "bio.h"
