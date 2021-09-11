@@ -21,7 +21,7 @@ int main(){
 
     char *workingOn[2]  = {"Meme-Indexer", "This Bio"};
 
-    char *likes[5]      = {"Programming", "FPS Games", "Harmonica", "Minecraft"};
+    char *likes[4]      = {"Programming", "FPS Games", "Harmonica", "Minecraft"};
 
     return 42;
 }
