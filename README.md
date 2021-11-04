@@ -40,5 +40,5 @@ int main(){
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Jatin Saini's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derpimort&langs_count=3&hide=jupyter%20notebook&theme=transparent" /></a>
 
 ### 🏆 Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Derpimort&no-bg=true&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Derpimort&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
