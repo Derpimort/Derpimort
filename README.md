@@ -29,15 +29,15 @@ int main(){
 
 ### 📌 Highlighted Repos
 
-[![VGGVox-PyTorch Card](https://github-readme-stats.vercel.app/api/pin/?username=Derpimort&repo=VGGVox-PyTorch&theme=transparent)](https://github.com/Derpimort/VGGVox-PyTorch)
-[![Meme-Indexer Card](https://github-readme-stats.vercel.app/api/pin/?username=Derpimort&repo=Meme-Indexer&theme=transparent)](https://github.com/Derpimort/Meme-Indexer)
-[![FinSent Card](https://github-readme-stats.vercel.app/api/pin/?username=Derpimort&repo=FinSent&theme=transparent)](https://github.com/Derpimort/FinSent)
-[![News-Categorization Card](https://github-readme-stats.vercel.app/api/pin/?username=Derpimort&repo=News-Categorization&theme=transparent)](https://github.com/Derpimort/News-Categorization)
+[![VGGVox-PyTorch Card](https://github-readme-stats-coral-ten-47.vercel.app/api/pin/?username=Derpimort&repo=VGGVox-PyTorch&theme=transparent)](https://github.com/Derpimort/VGGVox-PyTorch)
+[![Meme-Indexer Card](https://github-readme-stats-coral-ten-47.vercel.app/api/pin/?username=Derpimort&repo=Meme-Indexer&theme=transparent)](https://github.com/Derpimort/Meme-Indexer)
+[![FinSent Card](https://github-readme-stats-coral-ten-47.vercel.app/api/pin/?username=Derpimort&repo=FinSent&theme=transparent)](https://github.com/Derpimort/FinSent)
+[![News-Categorization Card](https://github-readme-stats-coral-ten-47.vercel.app/api/pin/?username=Derpimort&repo=News-Categorization&theme=transparent)](https://github.com/Derpimort/News-Categorization)
 
 ### 🔭 Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Jatin Saini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Derpimort&line_height=27&show_icons=true&count_private=true&include_all_commits=false&theme=transparent" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Jatin Saini's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derpimort&langs_count=3&hide=jupyter%20notebook&theme=transparent" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Jatin Saini's Github Stats" src="https://github-readme-stats-coral-ten-47.vercel.app/api?username=Derpimort&line_height=27&show_icons=true&count_private=true&include_all_commits=false&theme=transparent" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Jatin Saini's Language Stats" src="https://github-readme-stats-coral-ten-47.vercel.app/api/top-langs/?username=Derpimort&langs_count=3&hide=jupyter%20notebook,HTML,CSS&size_weight=0.5&count_weight=0.5&theme=transparent" /></a>
 
 ### 🏆 Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Derpimort&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
